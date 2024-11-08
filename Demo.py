@@ -10,7 +10,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 
 #driver = webdriver.Chrome(executable_path="C:\\chromedriver.exe")
 
-driver = webdriver.Ie(executable_path="C:\\IEDriverServer.exe")
+driver = webdriver.Chrome()
 driver.implicitly_wait(5)
 list = []
 list2 = []
