@@ -1,0 +1,1 @@
+assert(ItemsInCart == 0 ) 
